@@ -12,7 +12,7 @@ Comunidade de apoio a mulheres que programam em Python no framework Django.
 
 Iniciativa que visa inspirar, empoderar e educar mulheres com conhecimentos de computação e ferramentas de capacitação profissional. 
 
-* http://www.reprograma.com.br
+* (http://www.reprograma.com.br)
 * [Página no Facebook](https://www.facebook.com/pg/ReprogramaBrasil/)
 
 
